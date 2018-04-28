@@ -5,7 +5,7 @@ title: "Débuter"
 subheadline: "Un guide étape par étape"
 teaser: "Ce guide vous permet de bien débuter avec la messagerie instantannée."
 header: ""
-permalink: "/debuter/"
+permalink: "/getting-started/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
