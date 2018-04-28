@@ -4,7 +4,7 @@ show_meta: false
 title: "Débuter"
 subheadline: "Un guide étape par étape"
 teaser: "Ce guide vous permet de bien débuter avec la messagerie instantannée."
-header: ""
+header: "logo.png"
 permalink: "/debuter/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
