@@ -18,10 +18,10 @@
   class: icon-googleplus
   title: "Google+"
 
- - name: Facebook
-   url: https://www.facebook.com/gilbert.girard.718
-   class: icon-facebook
-   title: "Facebook de Gilbert Girard"
+- name: Facebook
+  url: https://www.facebook.com/gilbert.girard.718
+  class: icon-facebook
+  title: "Facebook de Gilbert Girard"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
