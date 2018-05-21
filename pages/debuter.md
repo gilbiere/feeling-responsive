@@ -4,6 +4,8 @@ show_meta: false
 title: "Débuter"
 subheadline: "Un guide étape par étape"
 teaser: "Ce guide vous permet de bien débuter avec la messagerie instantannée."
+header:
+ image_fullwidth: ""
 
 
 permalink: "/debuter/"
