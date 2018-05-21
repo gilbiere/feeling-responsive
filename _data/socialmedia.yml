@@ -8,11 +8,6 @@
   class: icon-youtube
   title: "Videos de Gilbert Girard"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
-
 - name: Phlow YouTube Google+
   url: https://plus.google.com/+GilbertGirard
   class: icon-googleplus
